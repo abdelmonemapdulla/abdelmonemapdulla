@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdelmonemapdulla
 - 👀 I’m interested in artificial intelligence and machine learning
-- 🌱 I’m currently learning ai programming with python
+- 🌱 I’m currently learning SW Testing
 - 💞️ I’m looking to collaborate on ai projects
 - 📫 How to reach me: my email address is abdelmonemapdulla@gmail.com, phone number: +201009258823 it also has a WhatsApp!.
 
